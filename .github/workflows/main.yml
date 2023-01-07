@@ -14,3 +14,4 @@ jobs:
         server: ftp://45.152.46.86
         username: u225011828.backanddy.dev
         password: Senhadoftp123
+        server-dir: public_html/
