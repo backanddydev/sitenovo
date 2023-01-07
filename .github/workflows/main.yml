@@ -11,7 +11,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
-        server: ftp://45.152.46.86
+        server: ftp://frontfabi.com.br
         username: u225011828.backanddy.dev
         password: Senhadoftp123
         server-dir: public_html/
